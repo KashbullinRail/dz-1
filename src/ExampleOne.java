@@ -7,6 +7,6 @@
 
 public class ExampleOne {
     public static void main(String[] args) {
-        System.out.println("Hello SkyPro!");
+        System.out.println("SkyPro!");
     }
 }
